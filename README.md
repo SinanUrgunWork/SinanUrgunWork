@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a software developer specializing in cloud engineering and improving myself in data science.
+I am a software developer specializing in cloud engineering and improving myself in data science. 
 
 
 ## 🌐 Socials:
