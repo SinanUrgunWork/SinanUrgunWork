@@ -23,7 +23,7 @@ Benchmarked GPT-4.1-Mini, Claude-3.5-Haiku, Gemini-1.5-Flash, and LLaMA-3.3-70b 
 |---|---|---|
 | [ML Forecasting Platform](https://github.com/SinanUrgunWork/ml-forecasting-platform) | FastAPI, Scikit-Learn, Docker, AWS ECS Fargate, Prometheus | Production time-series forecasting API with model versioning, drift detection, and monitoring |
 | [RAVEN-FAIR Benchmark](https://github.com/SinanUrgunWork/An-Analysis-of-Architectural-Impact-on-LLM-based-Abstract-Visual-Reasoning) | Python, LangChain, GPT/Claude/Gemini APIs | Evaluation pipeline for LLM abstract visual reasoning across 4 reasoning architectures |
-| [Production RAG Pipeline](https://github.com/SinanUrgunWork/rag-pipeline) | FastAPI, LangChain, FAISS, Docker | Document ingestion, chunking, embedding, retrieval and generation with evaluation metrics |
+| [QueryForge (AI Document Reader)](https://github.com/SinanUrgunWork/QueryForge-AI-Document-Reader-) | FastAPI, LangChain, FAISS, Docker | Document ingestion, chunking, embedding, retrieval and generation with evaluation metrics |
 
 ---
 
