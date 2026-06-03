@@ -1,6 +1,6 @@
 # Sinan Urgun
 
-AI engineer working across the full stack — from model training  
+AI engineer working across the full stack, from model training  
 and evaluation to cloud deployment and monitoring.  
 Currently pursuing an MSc in Computer Engineering, researching  
 visual reasoning and explainability in foundation models.  
