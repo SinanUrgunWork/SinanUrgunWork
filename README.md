@@ -1,7 +1,9 @@
 # Sinan Urgun
 
-Backend and AI systems engineer focused on LLM workflows, MLOps, and production AI pipelines.
-MSc candidate in Computer Engineering at Sakarya University, researching LLM-based abstract visual reasoning.
+AI engineer working across the full stack — from model training  
+and evaluation to cloud deployment and monitoring.  
+Currently pursuing an MSc in Computer Engineering, researching  
+visual reasoning and explainability in foundation models.  
 
 ---
 
