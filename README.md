@@ -1,8 +1,51 @@
-<h1 align="center">Hi 👋, I'm Sinan Urgun</h1>
-<h3 align="center">I am a software developer specializing in cloud engineering and improving myself in data science.</h3>
+# Sinan Urgun
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sinanurgunwork" alt="sinanurgunwork" /></a> </p>
+Backend and AI systems engineer focused on LLM workflows, MLOps, and production AI pipelines.
+MSc candidate in Computer Engineering at Sakarya University, researching LLM-based abstract visual reasoning.
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Research
+
+**An Analysis of Architectural Impact on LLM-based Abstract Visual Reasoning: A Systematic Benchmark on RAVEN-FAIR**
+
+Benchmarked GPT-4.1-Mini, Claude-3.5-Haiku, Gemini-1.5-Flash, and LLaMA-3.3-70b across four reasoning architectures on RAVEN-FAIR visual reasoning tasks. Evaluated using SSIM, LPIPS, and Chain-of-Thought coherence scores.
+
+[arxiv.org/abs/2511.11916](https://arxiv.org/abs/2511.11916)
+
+---
+
+## Featured projects
+
+| Project | Stack | Description |
+|---|---|---|
+| [ML Forecasting Platform](https://github.com/SinanUrgunWork/ml-forecasting-platform) | FastAPI, Scikit-Learn, Docker, AWS ECS Fargate, Prometheus | Production time-series forecasting API with model versioning, drift detection, and monitoring |
+| [RAVEN-FAIR Benchmark](https://github.com/SinanUrgunWork/raven-fair-benchmark) | Python, LangChain, GPT/Claude/Gemini APIs | Evaluation pipeline for LLM abstract visual reasoning across 4 reasoning architectures |
+| [Production RAG Pipeline](https://github.com/SinanUrgunWork/rag-pipeline) | FastAPI, LangChain, FAISS, Docker | Document ingestion, chunking, embedding, retrieval and generation with evaluation metrics |
+
+---
+
+## Skills
+
+**AI and LLMs** — LLM APIs (OpenAI, Anthropic, Gemini), LangChain, RAG, embeddings, vector search, LLM evaluation, VLM reasoning
+
+**ML and Data** — PyTorch, Scikit-Learn, Pandas, NumPy, OpenCV, time series forecasting, feature engineering
+
+**Backend** — Python, FastAPI, Flask, REST APIs, microservices, PostgreSQL, MongoDB, DynamoDB
+
+**Cloud and MLOps** — AWS (ECS Fargate, EC2, S3, Lambda, CodePipeline), Docker, CI/CD, GitHub Actions, Prometheus, Airflow
+
+---
+
+## Certifications
+
+- AWS Certified Developer Associate
+- AWS Certified Cloud Practitioner
+
+---
+
+## Contact
+
+[sinan.urgun.work@gmail.com](mailto:sinan.urgun.work@gmail.com)
+[linkedin.com/in/sinan-urgun](https://linkedin.com/in/sinan-urgun)
+[arxiv.org/abs/2511.11916](https://arxiv.org/abs/2511.11916)
